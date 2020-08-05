@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# William Miranda aqui :grinning::wave:
+
+Novo amante da programação, encontando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade atravez da programação
+Pretendendo me aprofundar no desenvolvimento Web e mobie :computer: :iphone:
+
+Sobre mim:
+<br/>Sou docente do 6º em ciências contábeis da Universidade Federal do Delta do Parnaíba - Piauí :mortar_board:
+<br/>Atual Diretor de TI da Empresa Junior de Contabilidade - EJ CONAC 
+
+Atualmente estou estudando  Javascript/CSS/HTML juntamente com React/React Native
+<br/>:star: Treinando com alguns projetos em JS/NodeJs/React/React Native
+<br/>:point_right: 
+Buscando colaborar com projetos em Front-end usando React
+<br/>:video_game: Gamer quando tenho tempo livre: Dota 2, DBD e muitos outros! ps: perfil da steam nos contatos :D
+
+:email: Entre em contato por:
+<br/>Email: silva.miranda.william@gmail.com
+<br/>Linkedin: www.linkedin.com/in/williammirandadasilva
+<br/>steam: https://steamcommunity.com/id/willwilliam/
