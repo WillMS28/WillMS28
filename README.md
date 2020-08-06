@@ -27,9 +27,10 @@ Atualmente estou estudando  Javascript/CSS/HTML juntamente com React/React Nativ
 <br/>:star: Treinando com alguns projetos em JS/NodeJs/React/React Native
 <br/>:point_right: 
 Buscando colaborar com projetos em Front-end usando React
-<br/>:video_game: Gamer quando tenho tempo livre: Dota 2, DBD e muitos outros! ps: perfil da steam nos contatos :D
+<br/>:video_game: Gamer quando tenho tempo livre: Dota 2, DBD e muitos outros! ps: perfil da steam nos contatos :grinning:
 
 :email: Entre em contato por:
 <br/>Email: silva.miranda.william@gmail.com
-<br/>Linkedin: www.linkedin.com/in/williammirandadasilva
+<br/>Linkedin: www.linkedin.com/in/williammirandadasilvabr
+<br/>Twirtter: https://twitter.com/williamiranda28
 <br/>steam: https://steamcommunity.com/id/willwilliam/
