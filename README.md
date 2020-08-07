@@ -22,11 +22,10 @@ Pretendendo me aprofundar no desenvolvimento Web e mobie :computer: :iphone:
 Sobre mim:
  - Sou docente do 6º em ciências contábeis da Universidade Federal do Delta do Parnaíba - Piauí :mortar_board:
  - Atual Diretor de TI da Empresa Junior de Contabilidade - EJ CONAC 
-
-Atualmente estou estudando  Javascript/CSS/HTML juntamente com React/React Native
-<br/>:star: Treinando com alguns projetos em JS/NodeJs/React/React Native
-<br/>:point_right: Buscando colaborar com projetos em Front-end usando React
-<br/>:video_game: Gamer quando tenho tempo livre: Dota 2, DBD e muitos outros! ps: perfil da steam nos contatos :grinning:
+ - Atualmente estou estudando  Javascript/CSS/HTML juntamente com React/React Native
+ - :star: Treinando com alguns projetos em JS/NodeJs/React/React Native
+ - :point_right: Buscando colaborar com projetos em Front-end usando React
+ - :video_game: Gamer quando tenho tempo livre: Dota 2, DBD e muitos outros! ps: perfil da steam nos contatos :grinning:
 
 :email: Contato por:
 <br/>Email: silva.miranda.william@gmail.com
