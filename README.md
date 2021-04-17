@@ -21,7 +21,6 @@ Pretendendo me aprofundar no desenvolvimento Web e mobie :computer: :iphone:
 
 Sobre mim:
  - Sou docente do 7º período em ciências contábeis da Universidade Federal do Delta do Parnaíba - Piauí :mortar_board:
- - Atual Diretor de TI da Empresa Junior de Contabilidade - EJ CONAC 
  - Atualmente estou estudando  Javascript/CSS/HTML juntamente com React/React Native
  - :star: Treinando com alguns projetos em JS/NodeJs/React/React Native
  - :point_right: Buscando colaborar com projetos em Front-end usando React
