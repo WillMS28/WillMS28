@@ -9,11 +9,14 @@ Here are some ideas to get you started:
 -->
 # William Miranda aqui :grinning::wave:
 
-- 🔭 I’m currently working on junior company CONAC
-- 🌱 I’m currently learning JS/HTMAL/CSS
+- 💻 I’m currently learning ReactJS and ReactNative
 - 👯 I’m looking to collaborate on Front-end projects using React
 - 🤔 I’m looking for help with nothing for now
 - 📫 How to reach me: links below
+<br/>Email: silva.miranda.william@gmail.com
+<br/>Linkedin: www.linkedin.com/in/williammirandadasilvabr
+<br/>Twirtter: https://twitter.com/williamiranda28
+<br/>steam: https://steamcommunity.com/id/willwilliam/
 
 
 Novo amante da programação, encontando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade atravez da programação
