@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <br/>Email: silva.miranda.william@gmail.com
 <br/>Linkedin: www.linkedin.com/in/williammirandadasilvabr
 <br/>Twirtter: https://twitter.com/williamiranda28
-<br/>steam: https://steamcommunity.com/id/willwilliam/
 
 
 Novo amante da programação, encontando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade atravez da programação
@@ -32,4 +31,3 @@ Sobre mim:
 <br/>Email: silva.miranda.william@gmail.com
 <br/>Linkedin: www.linkedin.com/in/williammirandadasilvabr
 <br/>Twirtter: https://twitter.com/williamiranda28
-<br/>steam: https://steamcommunity.com/id/willwilliam/
