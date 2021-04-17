@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 -->
 # William Miranda aqui :grinning::wave:
 
+- 💼 looking for an opportunity to work using React
 - 💻 I’m currently learning ReactJS and ReactNative, using Typescript
 - 👯 I’m looking to collaborate on Front-end projects using React
 - 🤔 I’m looking for help with nothing for now
