@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with nothing for now
 - 📫 How to reach me: links below
 <br/>Email: silva.miranda.william@gmail.com
-<br/>Linkedin: www.linkedin.com/in/williammirandadasilvabr
-<br/>Twirtter: https://twitter.com/williamiranda28
+<br/>[Linkedin](https://www.linkedin.com/in/williamms/)
+<br/>[Twirtter](https://twitter.com/williamiranda28)
 
 
 Novo amante da programação, encontando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade atravez da programação
@@ -29,6 +29,6 @@ Sobre mim:
  - :point_right: Buscando colaborar com projetos em Front-end usando React
  
 :email: Contato por:
-<br/>Email: silva.miranda.william@gmail.com
-<br/>Linkedin: www.linkedin.com/in/williammirandadasilvabr
-<br/>Twirtter: https://twitter.com/williamiranda28
+<br/><a target="_blank" href="silva.miranda.william@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=William_M&color=EA4335&style=flat&logo=gmail" /></a>
+<br/>[Linkedin](https://www.linkedin.com/in/williamms/)
+<br/>[Twirtter](https://twitter.com/williamiranda28)
