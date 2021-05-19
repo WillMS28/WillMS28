@@ -24,6 +24,6 @@ Sobre mim:
  - :star: Treinando com alguns projetos em JS/NodeJs/React/React Native
  - :point_right: Buscando colaborar com projetos em Front-end usando React
  
-<br/><img src="https://img.shields.io/static/v1?label=Gmail&message=silva.miranda.william@gmail.com&color=EA4335&style=flat&logo=gmail" />
+<br/><a href="mailto:silva.miranda.william@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=silva.miranda.william@gmail.com&color=EA4335&style=flat&logo=gmail" /></a>
 <br/><a href="https://www.linkedin.com/in/williamms/"><img src="https://img.shields.io/static/v1?label=Linkedin&message=William_Miranda&color=0A66C2&style=flat&logo=linkedin" target="_blank" /></a>
 <br/><a href="https://twitter.com/williamiranda28"><img src="https://img.shields.io/static/v1?label=Twitter&message=William_M&color=1DA1F2&style=flat&logo=twitter" target="_blank" /></a>
