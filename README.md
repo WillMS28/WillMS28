@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with nothing for now
 - 📫 How to reach me: links below
 
-Novo amante da programação, encontando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade atravez da programação
+Amante da programação, encontando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade atravez da programação
 Pretendendo me aprofundar no desenvolvimento Web e mobie :computer: :iphone:
 
 Sobre mim:
  - Sou docente do 7º período em ciências contábeis da Universidade Federal do Delta do Parnaíba - Piauí :mortar_board:
- - Atualmente estou estudando  Javascript/CSS/HTML juntamente com React/React Native
+ - Atualmente estou estudando ReactJS/React Native
  - :star: Treinando com alguns projetos em JS/NodeJs/React/React Native
- - :point_right: Buscando colaborar com projetos em Front-end usando React
+ - :point_right: Aberto para colaborar com projetos em Front-end usando React e React Native
  
 <br/><a href="mailto:silva.miranda.william@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=silva.miranda.william@gmail.com&color=EA4335&style=flat&logo=gmail" /></a>
 <br/><a href="https://www.linkedin.com/in/williamms/"><img src="https://img.shields.io/static/v1?label=Linkedin&message=William_Miranda&color=0A66C2&style=flat&logo=linkedin" target="_blank" /></a>
