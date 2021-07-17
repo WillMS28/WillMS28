@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
  Amante da programação, encontando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade atravez da programação
  Pretendendo me aprofundar no desenvolvimento Web e mobie :computer: :iphone:
+ 
+ ---
 
  Sobre mim:
   - Sou docente do 7º período em ciências contábeis da Universidade Federal do Delta do Parnaíba - Piauí :mortar_board:
@@ -30,6 +32,24 @@ Here are some ideas to get you started:
   - :star: Treinando com alguns projetos em [Node.js](https://nodejs.org/en/), [ReactJS](https://reactjs.org/) e [React Native](https://reactnative.dev/)
   - :point_right: Aberto para colaborar com projetos em Front-end usando React e React Native
 
+---
+<div align='center' >
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=WillMS28&count_private=true&theme=tokyonight&show_icons=true"/>
+
+
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillMS28&repo=GamePlay_mobile&theme=tokyonight&show_icons=true)](https://github.com/WillMS28/GamePlay_mobile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillMS28&repo=Moveit_nlw4&theme=tokyonight&show_icons=true)](https://github.com/WillMS28/Moveit_nlw4)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillMS28&repo=proffy&theme=tokyonight&show_icons=true)](https://github.com/WillMS28/proffy)
+</div>
+
+<div align='center' >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillMS28&theme=tokyonight&show_icons=true"/>
+</div>
+
+
+---
+*Contact:*
  <br/><a href="mailto:silva.miranda.william@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=silva.miranda.william@gmail.com&color=EA4335&style=flat&logo=gmail" /></a>
  <br/><a href="https://www.linkedin.com/in/williamms/"><img src="https://img.shields.io/static/v1?label=Linkedin&message=William_Miranda&color=0A66C2&style=flat&logo=linkedin" target="_blank" /></a>
  <br/><a href="https://twitter.com/williamiranda28"><img src="https://img.shields.io/static/v1?label=Twitter&message=William_M&color=1DA1F2&style=flat&logo=twitter" target="_blank" /></a>
