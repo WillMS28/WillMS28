@@ -19,10 +19,10 @@ Here are some ideas to get you started:
  - 📫 How to reach me: links below
   <!-- 🤔 I’m looking for help with nothing for now -->
 
+ ---
+ 
  Amante da programação, encontando um novo caminho profissional e ao mesmo tempo um meio de desenvolver a criatividade atravez da programação
  Pretendendo me aprofundar no desenvolvimento Web e mobie :computer: :iphone:
- 
- ---
 
  Sobre mim:
   - Sou docente do 7º período em ciências contábeis da Universidade Federal do Delta do Parnaíba - Piauí :mortar_board:
