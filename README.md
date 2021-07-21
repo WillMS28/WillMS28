@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillMS28&repo=GamePlay_mobile&theme=tokyonight&show_icons=true)](https://github.com/WillMS28/GamePlay_mobile)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillMS28&repo=Moveit_nlw4&theme=tokyonight&show_icons=true)](https://github.com/WillMS28/Moveit_nlw4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillMS28&repo=proffy&theme=tokyonight&show_icons=true)](https://github.com/WillMS28/proffy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WillMS28&repo=GoBarber-web&theme=tokyonight&show_icons=true)](https://github.com/WillMS28/GoBarber-web)
+  
 </div>
 
 <div align='center' >
