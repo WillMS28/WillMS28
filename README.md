@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  Pretendendo me aprofundar no desenvolvimento Web e mobie :computer: :iphone:
 
  Sobre mim:
-  - Sou docente do 8º período em ciências contábeis da Universidade Federal do Delta do Parnaíba - Piauí :mortar_board:
+  - Sou estudante do 8º período em ciências contábeis da Universidade Federal do Delta do Parnaíba - Piauí :mortar_board:
   - Atualmente estou estudando [ReactJS](https://reactjs.org/) e [React Native](https://reactnative.dev/)
   - Juntamente com [TypeScript](https://www.typescriptlang.org/)
   - Utilizando [Next.js](https://nextjs.org/) em aplicações Front-end 
