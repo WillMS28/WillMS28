@@ -17,7 +17,6 @@ Here are some ideas to get you started:
  - 💻 I’m currently learning ReactJS and ReactNative, using Typescript
  - 👯 I’m looking to collaborate on Front-end projects using React
  - 📫 How to reach me: links below
-  <!-- 🤔 I’m looking for help with nothing for now -->
 
  ---
  
