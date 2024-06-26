@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 <h1 align='center'> William Miranda aqui :grinning::wave: </h1>
 
   
- - 💼 Working with private blockchain
- - 💻 I’m currently learning ReactJS and ReactNative, using Typescript
+ - 💼 Working with NextJS and Flutter
+ - 💻 I’m currently learning Node JS 
  - 👯 I’m looking to collaborate on Front-end projects using React
  - 📫 How to reach me: links below
 
